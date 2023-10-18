@@ -2,7 +2,7 @@
 
 > Status do Projeto: Em Desenvolvimento
 
-Para roda esse projeto na sua máquina, por favor digite:
+Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
 npm install teste
