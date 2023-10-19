@@ -1,4 +1,4 @@
-<h1> Sistema de Cadastro de Jogos </h1>
+<h1> Sistema de Cadastro de Jogos - Aprendendo Git e GitHub na Alura </h1>
 
 > Status do Projeto: Em Desenvolvimento
 
